@@ -1,0 +1,29 @@
+@charset "UTF-8";
+.containe-fluid{
+	height:100px;
+	font-size: 50px;
+	color:black;
+	margin:10px;
+}	
+
+.container-lg{
+	height:100px;
+	background-color:green;
+	font-size: 50px;
+	color:black;
+	margin:20px;
+}
+.row{
+	
+	border:3px solid brown;
+	margin:10px;
+}
+#rojo{
+	background-color: red;
+}
+#azul{
+	background-color: blue;
+}
+#verde{
+	background-color: green;
+}
